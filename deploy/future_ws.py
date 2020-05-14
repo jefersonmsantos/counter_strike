@@ -184,7 +184,7 @@ for link in matchesLinks:
                 openingTeamWinPercentAfterFirstKillPlayers.append(stats_auxiliary['Team win percent after first kill'])
                 openingFirstKillInWonRoundsPlayers.append(stats_auxiliary['First kill in won rounds'])
     m+=1
-    if m>=20:
+    if m>=4:
         break
 
 
